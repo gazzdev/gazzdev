@@ -1,6 +1,6 @@
 # Gareth Duncan
 
-```
+```console
 gazzdev@VM:~$ me
 gazzdev
 gazzdev@VM:~$ me --include bio
